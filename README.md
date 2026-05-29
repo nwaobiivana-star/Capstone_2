@@ -1,7 +1,7 @@
 # Capstone_2: Business Analysis with Python 
 
 ## Project Overview
-In this project, the goal is using upyter Notebook, Python libraries Pandas, and Matplotlib to analyze sales data. Also, analyzing sales performance to uncover key business insights.
+This notebook presents a full sales analysis for EmporiUm, a growing student bookstore chain that sells tech gear, art supplies, and other products both in-store and online.
 
 This analysis helps support business decision-making by identifying:
 - High-performing stores and products
@@ -30,7 +30,7 @@ This analysis helps support business decision-making by identifying:
 - Jupiter Notebook 
 
 ## Project Demo Video
-
+https://drive.google.com/file/d/1ymiEfdaFLp4S_5IxrLSjJ_EYTzuFRgHk/view?usp=sharing
 ## Author
 Ivana Nwaobi
 
